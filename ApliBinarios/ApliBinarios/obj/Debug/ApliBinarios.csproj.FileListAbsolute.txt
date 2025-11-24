@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\ApliBinarios\ApliBinarios\bin\Debug\ApliBinarios.exe.config
+C:\Users\USER\source\repos\ApliBinarios\ApliBinarios\bin\Debug\ApliBinarios.exe
+C:\Users\USER\source\repos\ApliBinarios\ApliBinarios\bin\Debug\ApliBinarios.pdb
+C:\Users\USER\source\repos\ApliBinarios\ApliBinarios\obj\Debug\ApliBinarios.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ApliBinarios\ApliBinarios\obj\Debug\ApliBinarios.Properties.Resources.resources
+C:\Users\USER\source\repos\ApliBinarios\ApliBinarios\obj\Debug\ApliBinarios.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\ApliBinarios\ApliBinarios\obj\Debug\ApliBinarios.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ApliBinarios\ApliBinarios\obj\Debug\ApliBinarios.exe
+C:\Users\USER\source\repos\ApliBinarios\ApliBinarios\obj\Debug\ApliBinarios.pdb
+C:\Users\USER\source\repos\ApliBinarios\ApliBinarios\bin\Debug\EntityFramework.dll
+C:\Users\USER\source\repos\ApliBinarios\ApliBinarios\bin\Debug\EntityFramework.xml
+C:\Users\USER\source\repos\ApliBinarios\ApliBinarios\obj\Debug\ApliBina.6BFAEC0C.Up2Date
+C:\Users\USER\source\repos\ApliBinarios\ApliBinarios\obj\Debug\ApliBinarios.Form1.resources
